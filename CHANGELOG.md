@@ -4,12 +4,13 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-06-30)
+## Unreleased (2025-11-19)
 
 <section class="features">
 
 ### Features
 
+-   [`cf4140d`](https://github.com/stdlib-js/stdlib/commit/cf4140d45ad394171a01c08307a51c70aa25ece0) - add `stats/strided/wasm/dmeanpw`  [(#7100)](https://github.com/stdlib-js/stdlib/pull/7100)
 -   [`29542d9`](https://github.com/stdlib-js/stdlib/commit/29542d951e981c9c8480700323cf858a9fe11f6c) - add `stats/strided/dmeanpw`
 
 </section>
@@ -22,6 +23,7 @@
 
 <details>
 
+-   [`cf4140d`](https://github.com/stdlib-js/stdlib/commit/cf4140d45ad394171a01c08307a51c70aa25ece0) - **feat:** add `stats/strided/wasm/dmeanpw`  [(#7100)](https://github.com/stdlib-js/stdlib/pull/7100) _(by Prashant Kumar Yadav, Athan Reines, stdlib-bot)_
 -   [`3167368`](https://github.com/stdlib-js/stdlib/commit/3167368f2c7f75cf5479cfb5711b6932a178d466) - **refactor:** update paths _(by Gururaj Gurram)_
 -   [`744337a`](https://github.com/stdlib-js/stdlib/commit/744337aaebfd4a9631f17765bce57a38c5374173) - **refactor:** update paths _(by Gururaj Gurram)_
 -   [`9f85b5d`](https://github.com/stdlib-js/stdlib/commit/9f85b5d90cb6fcaf052116cd06aa4a693757f0ec) - **test:** fix description _(by Philipp Burckhardt)_
@@ -39,11 +41,13 @@
 
 ### Contributors
 
-A total of 3 people contributed to this release. Thank you to the following contributors:
+A total of 5 people contributed to this release. Thank you to the following contributors:
 
 -   Aayush Khanna
+-   Athan Reines
 -   Gururaj Gurram
 -   Philipp Burckhardt
+-   Prashant Kumar Yadav
 
 </section>
 
