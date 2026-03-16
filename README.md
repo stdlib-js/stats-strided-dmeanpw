@@ -379,8 +379,8 @@ Copyright &copy; 2016-2026. The Stdlib [Authors][stdlib-authors].
 [npm-image]: http://img.shields.io/npm/v/@stdlib/stats-strided-dmeanpw.svg
 [npm-url]: https://npmjs.org/package/@stdlib/stats-strided-dmeanpw
 
-[test-image]: https://github.com/stdlib-js/stats-strided-dmeanpw/actions/workflows/test.yml/badge.svg?branch=v0.1.1
-[test-url]: https://github.com/stdlib-js/stats-strided-dmeanpw/actions/workflows/test.yml?query=branch:v0.1.1
+[test-image]: https://github.com/stdlib-js/stats-strided-dmeanpw/actions/workflows/test.yml/badge.svg?branch=main
+[test-url]: https://github.com/stdlib-js/stats-strided-dmeanpw/actions/workflows/test.yml?query=branch:main
 
 [coverage-image]: https://img.shields.io/codecov/c/github/stdlib-js/stats-strided-dmeanpw/main.svg
 [coverage-url]: https://codecov.io/github/stdlib-js/stats-strided-dmeanpw?branch=main
